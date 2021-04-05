@@ -3,6 +3,8 @@ export default {
     colors: {
         secundary: '#fff',
         mainText: '#222',
-        subText: '#555'
+        subText: '#555',
+        today: '#b13b44',
+        
     }
 }
